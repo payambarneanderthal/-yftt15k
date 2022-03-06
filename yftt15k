@@ -1,0 +1,73 @@
+print(f"{blue} ")
+
+time.sleep(1.0)
+
+print ("__________")
+
+time.sleep(0.7)
+
+print ("#_________")
+
+time.sleep(0.6)
+
+print ("##________")
+
+time.sleep(0.5)
+
+print ("###_______")
+
+time.sleep(0.4)
+
+print ("####______")
+
+time.sleep(0.3)
+
+print ("#####_____")
+
+time.sleep(0.2)
+
+print ("######____")
+
+time.sleep(0.1)
+
+print ("#######___")
+
+time.sleep(0.5)
+
+print ("########__")
+
+time.sleep(0.1)
+
+print ("#########_")
+
+time.sleep(0.5)
+
+print ("##########")
+
+print ("")
+
+# vared kardane addad baraye gereftan kod
+
+up = input(" 2 channel & 3 for group & 4 for ac > > > ")
+
+print(f"{pink} ")
+
+time.sleep(3.0)
+
+print("""
+
+  update =
+
+$        cd python-Filtri.py
+
+$       python Filtri.py
+
+$       git clone https://github.com/abolfzl4805/python-Filtri.py
+
+""")
+
+print(f"{red} ")
+
+if up == "2":
+
+        print ('code for Channel ≠>' + '%s%s(3.6.3.4/y/f///7.3.7.3.7.3.7.5.5.8.4.8.4.89.221.8.1.1.4.5.8.1.2.8.4.9.4.5.1.0.6.6.12.7.1.0.10.3.4.3.5.xexx.5.7.3.7.8.4.7.4)%s' % (fg('red'), bg('yellow'), attr('reset')))
